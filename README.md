@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+I'm creating this project to train my personal skills by solving 300 exercises from the "Geek University" list of exercises, i am using Java programing language to create the algorithms. the other reason for me to create this project, is to shere the results with studants, and another people that are learning the Java programing language.
 
 ## Folder Structure
 
